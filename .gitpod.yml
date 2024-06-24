@@ -18,7 +18,7 @@ jetbrains:
   rider:
     prebuilds:
       version: stable
-  clion:
+  supereditor:
     prebuilds:
       version: latest
   intellij:
