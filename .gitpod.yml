@@ -21,12 +21,12 @@ jetbrains:
   clion:
     prebuilds:
       version: both
-  goland:
-    prebuilds:
-      version: both
-  rubymine:
-    prebuilds:
-      version: both
+  # goland:
+  #   prebuilds:
+  #     version: both
+  # rubymine:
+  #   prebuilds:
+  #     version: both
   intellij:
     plugins:
       - com.haulmont.jpab
