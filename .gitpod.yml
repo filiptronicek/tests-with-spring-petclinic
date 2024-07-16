@@ -17,10 +17,16 @@ vscode:
 jetbrains:
   rider:
     prebuilds:
-      version: stable
+      version: both
   clion:
     prebuilds:
-      version: latest
+      version: both
+  goland:
+    prebuilds:
+      version: both
+  rubymine:
+    prebuilds:
+      version: both
   intellij:
     plugins:
       - com.haulmont.jpab
